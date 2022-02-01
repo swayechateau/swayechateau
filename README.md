@@ -1,4 +1,4 @@
-### Hi there, I'm [Swaye Chateau][portfolio] aka Mercyless Reap 👋 
+# Hi there, I'm [Swaye Chateau][portfolio] aka Mercyless Reap 👋 
 
 [![Website](https://img.shields.io/website?label=swayechateau.com&style=for-the-badge&url=https%3A%2F%2Fswayechateau.com)](https://swayechateau.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SwayeChateau?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSwayeChateau&screen_name=SwayeChateau)
