@@ -12,10 +12,12 @@
 - 😄 Pronouns: Whatever tickles your fancy, I am laid back about things.
 - ⚡ Fun fact: I love to draw and take photos, I also used to play the keyboard, saxaphone and drums.
 
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
-[![Swaye's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=swayechateau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Swaye's Top Languages](https://github-readme-stats.vercel.app/api?username=swayechateau&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Swayes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swayechateau)](https://github.com/anuraghazra/github-readme-stats)
+### GitHub Stats
+[![Swaye's GitHub stats](https://github-readme.swayechateau.com/api/top-langs/?username=swayechateau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Swaye's Top Languages](https://github-readme.swayechateau.com/api?username=swayechateau&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Swayes's wakatime stats](https://github-readme.swayechateau.com/api/wakatime?username=swayechateau)](https://github.com/anuraghazra/github-readme-stats)
 
 [portfolio]: https://swayechateau.com
 [portfolio_ui]: https://github.com/swayechateau/portfolio-ui
