@@ -12,7 +12,7 @@
 - 😄 Pronouns: Whatever tickles your fancy, I am laid back about things.
 - ⚡ Fun fact: I love to draw and take photos, I also used to play the keyboard, saxaphone and drums.
 
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+[![Spotify](https://swayechateau.vercel.app/api/spotify)](https://open.spotify.com/user/swayechateau)
 
 ### GitHub Stats
 [![Swaye's GitHub stats](https://github-readme.swayechateau.com/api/top-langs/?username=swayechateau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
