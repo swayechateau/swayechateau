@@ -12,7 +12,10 @@
 - 😄 Pronouns: Whatever tickles your fancy, I am laid back about things.
 - ⚡ Fun fact: I love to draw and take photos, I also used to play the keyboard, saxaphone and drums.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swayechateau)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Swaye's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=swayechateau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Swaye's Top Languages](https://github-readme-stats.vercel.app/api?username=swayechateau&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Swayes's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=swaye)](https://github.com/anuraghazra/github-readme-stats)
 
 [portfolio]: https://swayechateau.com
 [portfolio_ui]: https://github.com/swayechateau/portfolio-ui
