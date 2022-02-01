@@ -1,18 +1,18 @@
-### Hi there 👋
+### Hi there, I'm [Swaye Chateau][portfolio] aka Mercyless Reap 👋 
 
-<!--
-**swayechateau/swayechateau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=swayechateau.com&style=for-the-badge&url=https%3A%2F%2Fswayechateau.com)](https://swayechateau.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/SwayeChateau?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSwayeChateau&screen_name=SwayeChateau)
 
-Here are some ideas to get you started:
+## I'm a Developer, Uncle, Motorcyclist, Mountainbiker and Vlogger
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I am currently working on updating my portfolio to react and typescript: [Portfolio Repo][portfolio_ui]!
+- 🌱 I’m currently learning almost everything
+- 👯 I’m looking to collaborate with other developers
+- 🥅 2022 Goals: Contribute more to Open Source projects and migrate from gitlab to github
+- 😄 Pronouns: Whatever tickles your fancy, I am laid back about things.
+- ⚡ Fun fact: I love to draw and take photos, I also used to play the keyboard, saxaphone and drums.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=swayechateau)](https://github.com/anuraghazra/github-readme-stats)
+
+[portfolio]: https://swayechateau.com
+[portfolio_ui]: https://github.com/swayechateau/portfolio-ui
