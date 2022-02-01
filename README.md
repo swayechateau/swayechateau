@@ -15,7 +15,7 @@
 ### Listening On Spotify 🎧 
 [![Spotify](https://novatorem-swayechateau.vercel.app/api/spotify)](https://open.spotify.com/user/3173wirogfrn5nxckhxw447lyxly)
 
-### GitHub Stats 📊
+### GitHub Stats :octocat:
 [![Swaye's GitHub stats](https://github-readme.swayechateau.com/api/top-langs/?username=swayechateau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Swaye's Top Languages](https://github-readme.swayechateau.com/api?username=swayechateau&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Swayes's wakatime stats](https://github-readme.swayechateau.com/api/wakatime?username=swayechateau)](https://github.com/anuraghazra/github-readme-stats)
