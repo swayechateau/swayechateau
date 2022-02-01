@@ -16,9 +16,15 @@
 [![Spotify](https://novatorem-swayechateau.vercel.app/api/spotify)](https://open.spotify.com/user/3173wirogfrn5nxckhxw447lyxly)
 
 ### GitHub Stats :octocat:
-[![Swaye's GitHub stats](https://github-readme.swayechateau.com/api/top-langs/?username=swayechateau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Swaye's Top Languages](https://github-readme.swayechateau.com/api?username=swayechateau&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Swayes's wakatime stats](https://github-readme.swayechateau.com/api/wakatime?username=swayechateau)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme.swayechateau.com/api/top-langs/?username=swayechateau&layout=compact&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme.swayechateau.com/api?username=swayechateau&show_icons=true&count_private=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme.swayechateau.com/api/wakatime?username=swayechateau&theme=dark" />
+</a>
 
 [portfolio]: https://swayechateau.com
 [portfolio_ui]: https://github.com/swayechateau/portfolio-ui
