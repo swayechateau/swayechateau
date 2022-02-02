@@ -16,7 +16,7 @@
 
 ### Listening On Spotify 🎧 
 [![Spotify](https://novatorem-swayechateau.vercel.app/api/spotify)](https://open.spotify.com/user/3173wirogfrn5nxckhxw447lyxly)
-![Alt Text](https://i.giphy.com/media/KOfp5sCYol4S4/giphy.webp)
+![Dance Gif](https://i.giphy.com/media/KOfp5sCYol4S4/giphy.webp)
 
 ### GitHub Stats :octocat:
 
