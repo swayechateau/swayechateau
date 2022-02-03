@@ -21,16 +21,18 @@
 ### GitHub Stats :octocat:
 
 <div style="display:grid; gap:1rem;">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme.swayechateau.com/api/top-langs/?username=swayechateau&layout=compact&theme=dark" />
+<a href="https://github.com/swayechateau">
+  <img align="center" src="https://github-readme.swayechateau.com/api/top-langs/?username=swayechateau&layout=compact8&include_all_commits=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/swayechateau">
   <img align="center" src="https://github-readme.swayechateau.com/api?username=swayechateau&show_icons=true&count_private=true&theme=dark" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/swayechateau">
   <img align="center" src="https://github-readme.swayechateau.com/api/wakatime?username=swayechateau&theme=dark" />
 </a>
 </div>
+
+<img src="https://github-profile-trophy.vercel.app/?username=swayechateau&title=Issues,Repositories,MultiLanguage,Pulls&column=4"><br/></a>
 
 [portfolio]: https://swayechateau.com
 [portfolio_ui]: https://github.com/swayechateau/portfolio-ui
