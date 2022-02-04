@@ -21,13 +21,19 @@
 ### GitHub Stats :octocat:
 
 <p>
-  <img align="center" src="https://github-readme.swayechateau.com/api/top-langs/?username=swayechateau&layout=compact&include_all_commits=true&theme=dark" />
+  <a href="#">
+    <img align="center" src="https://github-readme.swayechateau.com/api/top-langs/?username=swayechateau&layout=compact&include_all_commits=true&theme=dark" />
+  </a>
 </p>
 <p>
-  <img align="center" src="https://github-readme.swayechateau.com/api?username=swayechateau&show_icons=true&count_private=true&theme=dark" />
+  <a href="#">
+    <img align="center" src="https://github-readme.swayechateau.com/api?username=swayechateau&show_icons=true&count_private=true&theme=dark" />
+  </a>
 </p>
 <p>
-  <img align="center" src="https://github-readme.swayechateau.com/api/wakatime?username=swayechateau&theme=dark" />
+  <a href="#">
+    <img align="center" src="https://github-readme.swayechateau.com/api/wakatime?username=swayechateau&theme=dark" />
+  </a>
 </p>
 </div>
 
