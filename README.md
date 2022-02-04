@@ -30,11 +30,6 @@
     <img align="center" src="https://github-readme.swayechateau.com/api?username=swayechateau&show_icons=true&count_private=true&theme=dark" />
   </a>
 </p>
-<p>
-  <a href="#">
-    <img align="center" src="https://github-readme.swayechateau.com/api/wakatime?username=swayechateau&theme=dark" />
-  </a>
-</p>
 </div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=swayechateau&title=Issues,Repositories,MultiLanguage,Pulls&column=4"><br/></a>
