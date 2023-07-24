@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://swayechateau.com">Swaye Chateau</a> aka Mercyless Reap 👋 </h1>
+<h1 align="center">Hi there, I'm <a href="https://swayechateau.com">Swaye Chateau</a> 👋 </h1>
 
 [![Website](https://img.shields.io/website?label=swayechateau.com&style=for-the-badge&url=https%3A%2F%2Fswayechateau.com)](https://swayechateau.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SwayeChateau?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSwayeChateau&screen_name=SwayeChateau)
@@ -7,9 +7,9 @@
 ## I'm a Software Engineer, Uncle, Motorcyclist, Mountainbiker and Vlogger
 
 - 🔭 I am currently working on updating my portfolio to react and typescript: [Portfolio Repo][portfolio_ui]!
-- 🌱 I’m currently learning almost everything
+- 🌱 I’m currently learning HTMX
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2022 Goals: Contribute more to Open Source projects and migrate from gitlab to github
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: Whatever tickles your fancy, I am laid back about things.
 - ⚡ Fun fact: I love to draw and take photos, I also used to play the keyboard, saxaphone and drums.
 
