@@ -6,13 +6,15 @@
 
 ## I'm a Software Engineer, Uncle, Motorcyclist, Mountainbiker and Vlogger
 
+## Featured Projects
+
+## Tasks
 - 🔭 I am currently working on updating my portfolio to react and typescript: [Portfolio Repo][portfolio_ui]!
 - 🌱 I’m currently learning HTMX
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: Whatever tickles your fancy, I am laid back about things.
 - ⚡ Fun fact: I love to draw and take photos, I also used to play the keyboard, saxaphone and drums.
-
 
 
 ### Listening On Spotify 🎧 
