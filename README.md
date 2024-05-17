@@ -1,25 +1,47 @@
-<h1 align="center">Hi there, I'm <a href="https://swayechateau.com">Swaye Chateau</a> 👋 </h1>
+<h1 align="center">ようこそ (Welcome) to My GitHub Portfolio 👋 </h1>
 
-[![Website](https://img.shields.io/website?label=swayechateau.com&style=for-the-badge&url=https%3A%2F%2Fswayechateau.com)](https://swayechateau.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/SwayeChateau?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSwayeChateau&screen_name=SwayeChateau)
+![Dance Gif](https://i.giphy.com/media/KOfp5sCYol4S4/giphy.webp)
+
+Hello! I'm excited to share my projects and interests with you. Feel free to explore and connect!
+
+## Portfolio Website
+
+Check out my portfolio website to see some of my work and learn more about me: 
+
+[![Portfolio][portfolio_badge]][portfolio]
 
 
-## I'm a Software Engineer, Uncle, Motorcyclist, Mountainbiker and Vlogger
+## About Me
+
+I am passionate about software development and continuously exploring new technologies and paradigms. Here are some areas I am particularly interested in:
+
+- **Golang**: I love its simplicity and performance. It’s my go-to language for building efficient and reliable applications.
+- **Elixir**: The concurrency model and fault tolerance features make Elixir an exciting language to work with.
+- **PHP**: A versatile language that I have used extensively for web development.
+- **JavaScript**: Essential for front-end development and creating interactive web applications.
+- **.NET Core**: I appreciate its cross-platform capabilities and robustness for building enterprise-level applications.
+
+## Currently Reading
+
+I am currently reading "[The Unicorn Project][the_unicorn_project]" after finishing "[The Phoenix Project][the_phoenix_project]". These books offer incredible insights into DevOps and modern software development practices, and they have significantly influenced my approach to building and managing software systems.
+
+## Interests
+
+- **Game Development**: Combining creativity and technical skills to create immersive experiences is something I'm deeply passionate about. I enjoy experimenting with different game engines and learning about game design and mechanics.
+- **Software Architecture**: I am fascinated by the principles of designing scalable, maintainable, and efficient systems. I strive to learn and implement best practices in my projects.
 
 ## Featured Projects
 
-## Tasks
-- 🔭 I am currently working on updating my portfolio to react and typescript: [Portfolio Repo][portfolio_ui]!
-- 🌱 I’m currently learning HTMX
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- 😄 Pronouns: Whatever tickles your fancy, I am laid back about things.
-- ⚡ Fun fact: I love to draw and take photos, I also used to play the keyboard, saxaphone and drums.
+[Way]
+[Goauther]
 
+## Connect with Me
 
-### Listening On Spotify 🎧 
-[![Spotify](https://novatorem-zeta-sandy.vercel.app/api/spotify)](https://open.spotify.com/user/3173wirogfrn5nxckhxw447lyxly)
-![Dance Gif](https://i.giphy.com/media/KOfp5sCYol4S4/giphy.webp)
+Feel free to reach out if you want to collaborate on a project, discuss tech topics, or just say hi!
+
+- [![X Follow][x_badge]][x_link]
+
+Thank you for visiting my GitHub portfolio!
 
 ### GitHub Stats :octocat:
 
@@ -37,5 +59,19 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=swayechateau&title=Issues,Repositories,MultiLanguage,Pulls&column=4"><br/></a>
 
-[portfolio]: https://swayechateau.com
-[portfolio_ui]: https://github.com/swayechateau/portfolio-ui
+<!-- portfolio -->
+[portfolio]: https://swaye.dev
+[portfolio_badge]: https://img.shields.io/website?label=swaye.dev&style=for-the-badge&url=https%3A%2F%2Fswaye.dev
+[portfolio_repo]: https://github.com/swayechateau/portfolio-ui
+
+<!-- Socials -->
+[x_badge]: https://img.shields.io/twitter/follow/swayechateau?style=social
+[x_link]: https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSwayeChateau&screen_name=SwayeChateau
+
+<!-- Projects -->
+[way]: https://github.com/swayedev/way
+[goauther]: https://github.com/swayedev/goauther
+
+<!-- Books -->
+[the_phoenix_project]: https://itrevolution.com/product/the-phoenix-project/
+[the_unicorn_project]: https://itrevolution.com/product/the-unicorn-project/
