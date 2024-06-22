@@ -13,9 +13,9 @@ Check out my portfolio website to see some of my work and learn more about me:
 
 ## About Me
 
-I am passionate about software development and continuously exploring new technologies and paradigms. Here are some areas I am particularly interested in:
+Passionate about software development and continuously exploring new technologies and paradigms. Here are some areas I am particularly interested in:
 
-- **Golang**: I love its simplicity and performance. It’s my go-to language for building efficient and reliable applications.
+- **Golang**: Loving the simplicity and performance. It’s my go-to language for building efficient and reliable applications.
 - **Elixir**: The concurrency model and fault tolerance features make Elixir an exciting language to work with.
 - **PHP**: A versatile language that I have used extensively for web development.
 - **JavaScript**: Essential for front-end development and creating interactive web applications.
@@ -23,16 +23,17 @@ I am passionate about software development and continuously exploring new techno
 
 ## Currently Reading
 
-I am currently reading "[The Unicorn Project][the_unicorn_project]" after finishing "[The Phoenix Project][the_phoenix_project]". These books offer incredible insights into DevOps and modern software development practices, and they have significantly influenced my approach to building and managing software systems.
+Currently reading "[The Unicorn Project][the_unicorn_project]" after finishing "[The Phoenix Project][the_phoenix_project]". These books offer incredible insights into DevOps and modern software development practices, and they have significantly influenced my approach to building and managing software systems.
 
 ## Interests
 
 - **Game Development**: Combining creativity and technical skills to create immersive experiences is something I'm deeply passionate about. I enjoy experimenting with different game engines and learning about game design and mechanics.
-- **Software Architecture**: I am fascinated by the principles of designing scalable, maintainable, and efficient systems. I strive to learn and implement best practices in my projects.
+- **Software Architecture**: Fascinated by the principles of designing scalable, maintainable, and efficient systems. I strive to learn and implement best practices in my projects.
 
 ## Featured Projects
 
 [Way]
+
 [Goauther]
 
 ## Connect with Me
