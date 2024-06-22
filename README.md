@@ -41,8 +41,7 @@ Currently reading "[The Unicorn Project][the_unicorn_project]" after finishing "
 Feel free to reach out if you want to collaborate on a project, discuss tech topics, or just say hi!
 
 - [![X Follow][x_badge]][x_link]
-
-Thank you for visiting my GitHub portfolio!
+  
 
 ### GitHub Stats :octocat:
 
